@@ -8,4 +8,4 @@
 8. If everything works, you should get a customer back, when running the first method.
 
 ## Implement methods!
-Implement all the methods, you have implemented in your server. Remember to take a look at the functional requirements to make sure that you actually fulfill everything on both server- and client-side.  
+Implement all the methods, you have implemented in your server. Remember to take a look at both the functional- and non functional requirements (can be found in the server readme: https://github.com/distribuerede-systemer-2019/hackathon-server) to make sure that you actually fulfill everything on both server- and client-side.  
